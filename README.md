@@ -16,4 +16,4 @@ Depois de concluir este tutorial, você saberá:
 - Como desenvolver e avaliar um modelo Encoder-Decoder CNN-LSTM para previsão de séries temporais.
 - Como desenvolver e avaliar um modelo Encoder-Decoder ConvLSTM para previsão de séries temporais.
 
-Ref: https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/
+Créditos: https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/
